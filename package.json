@@ -1,0 +1,10 @@
+{
+  "name": "docker-node-app",
+  "version": "1.0.0",
+  "description": "Dockerized Node.js single app template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
