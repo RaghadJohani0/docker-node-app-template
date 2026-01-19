@@ -14,3 +14,11 @@ A simple, production-ready 📦 Docker template for a single Node.js application
 ## Build Image
 ```bash
 docker build -t node-app .
+```
+
+## License
+
+This project is licensed for non-commercial use only.  
+See the LICENSE file for details.
+
+**License:** Non-Commercial – Copyright (c) 2026 Raghad Johani
